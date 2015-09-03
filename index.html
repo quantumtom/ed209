@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+
+	</head>
+	
+	<body>		
+
+		<p>Test</p>
+	
+		<script type="text/javascript">
+
+			/* The prime factors of the number 13195 are 5, 7, 13 and 29.
+			
+			* What is the largest prime factor of the number 600,851,475,143.
+			
+			*/
+			
+			function isPrime(n) {
+
+				var i, bPrime = false;
+				
+				if (n >= 2) {
+				
+					bPrime = true;
+				
+					for (i = 1; i <= n/2; i++) {
+
+						if ((n % i) == 0) {
+						
+							bPrime = false;
+							
+							i = n;
+							
+						}
+					
+					}
+
+				}
+				
+				return bPrime;
+				
+			}
+		
+		</script>
+	
+	</body>
+	
+</html>

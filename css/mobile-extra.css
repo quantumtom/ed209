@@ -1,0 +1,258 @@
+.root-node {
+	margin:0;
+}
+
+.foot-link {
+	margin:3px;
+}
+
+.sticky-left {
+	float:left;	
+}
+
+.sticky-right {
+	float:right;	
+}
+
+.site-nav {
+	display:block;
+}
+
+.nav-custom-icons {
+	height:48px;
+	width:320px;
+}
+
+.ui-nav-btn {
+	background:url("/img/htc-nav-sprite-320.png") no-repeat;
+	border:0px;
+	height:48px;
+	width:80px;
+}
+
+.view.ui-nav-btn  {
+	background-position:0 0;
+}
+
+.true.ui-nav-btn  {
+	background-position:-80px 0;
+}
+
+.beat.ui-nav-btn  {
+	background-position:-160px 0;
+}
+
+.spec.ui-nav-btn  {
+	background-position:-240px 0;
+}
+
+
+.view.ui-btn-active  {
+	background-position:0 -48px;
+}
+
+.true.ui-btn-active  {
+	background-position:-80px -48px;
+}
+
+.beat.ui-btn-active  {
+	background-position:-160px -48px;
+}
+
+.spec.ui-btn-active  {
+	background-position:-240px -48px;
+}
+
+ul {
+	list-style:none;
+}
+
+li {
+	float:left;
+}
+
+#generic-content {
+
+}
+
+#generic-header {
+	display:block;
+}
+
+#generic-footer {
+	
+}
+
+#view-content {
+	background:url("/img/view-320.png") no-repeat;
+}
+
+#true-content {
+	background:url("/img/true-320.png") no-repeat;	*/
+}
+
+#beat-content {
+	background:url("/img/beat-320.png") no-repeat;
+}
+
+#spec-content {
+	background:url("/img/spec-320.png") no-repeat;
+}
+
+.no-padding {
+	padding:0 !important;
+}
+
+	/* START Zoetrope Definitons */
+
+.viewport {	
+}
+
+.viewport-container {
+	height: 277px;
+}
+
+.viewport-container img {
+	margin: 0;
+	padding: 0;
+	width:133px;
+}
+
+.subsection {
+	height:277px;
+	margin:0 auto 0;
+	overflow:hidden;
+	position:relative;
+	top:45px;
+	width:133px;
+}
+
+.content-wrapper {
+	height:470px;
+	width:320px;
+}
+
+.content-wrapper.spec-page {
+	height:515px;
+}
+
+.foot-link{
+	display: block;
+}
+
+	/* END Zoetrope Definitons */
+#vp-1 {
+	height:122px;
+	width:218px;
+	margin:174px auto 0;
+}
+
+.video-wrapper {
+	height:277px;
+	margin:0px auto 0;
+}
+
+.header-image {
+	height:40px;
+	width:320px;
+}
+
+.custom-footer {
+	border:0;
+}
+
+.no-background {
+	background:none;
+	border:0;
+}
+
+.fake-footer {
+	background:transparent;
+	margin:-40px 0;
+	width:320px;
+}
+
+.foot-link img {
+	margin:0 10px;
+}
+
+.drop-shadow {
+    -webkit-box-shadow: 0px 5px 2px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 5px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 2px rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+	text-align:center;
+}
+
+.header-toggle-button {
+	background:url("/img/menu-button-off-320.png") no-repeat scroll 0 0 transparent;
+	display:block;
+	height:13px;
+	width:42px;
+	margin-top:27px;
+	position:absolute;
+	z-index:10001;
+	top:0;
+}
+
+.header-toggle-button.off {
+	background:url("/img/menu-button-off-320.png") no-repeat scroll 0 0 transparent;
+}
+
+.header-toggle-button.on {
+	background:url("/img/menu-button-on-320.png") no-repeat scroll 0 0 transparent;
+}
+.hidden {
+	display:none;
+}
+
+.visible {
+	display:block;
+}
+
+.view-root {
+	width:320px;
+}
+
+.max-width-320px {
+	width:320px;
+}
+
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page {
+	width:320px !important;
+}
+
+.body-feature {
+	height:320px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.body-copy {
+	margin:18px 5px 0;
+}
+
+.body-copy > h2 {
+	font-size:14px;
+	margin:0;
+	text-transform:uppercase;
+}
+
+.body-copy > p {
+	font-size:14px;
+	margin:10px 19px;
+	line-height:15.6px;
+}
+
+.body-copy > p > b {
+	margin:0px 13px 0px 0px;
+	vertical-align:top;
+}
+
+.body-copy > p > span.columnar {
+	font-size:12px;
+	display:inline-block;
+	width:150px;
+}
