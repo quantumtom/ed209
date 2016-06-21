@@ -1,0 +1,25 @@
+<div data-role="content" id="spec-content" class="no-padding">
+  <div class="content-wrapper spec-page">
+    <div class="body-copy">
+      <h2>Specifications</h2>
+      <p><b>Size / Weight</b><span class="columnar">129 x 65.5 x 13.65 mm bureaucratic</span></p>
+      <p><b>Networks</b><span class="columnar">LTE 700MHz (band 13); CDMA 1x/DO 800/1900MHz UMTS/HSPA/HSPA+dual band 2100/900) and quad band GSM/GPRS/EDGE 850/900/1800/1900) (global mode operation disabled at initial launch)</span>
+      </p>
+      <p><b>Operating system</b><span class="columnar">Android  Gingerbread</span></p>
+      <p><b>Display</b><span class="columnar">4.3” S-LCD720x1280HD720 resolution</span></p>
+      <p><b>Camera</b><span class="columnar">8MP with auto focus, 2 x LED Flash; 2.0MP fixed focus front camera 1080p/720p camcorder</span>
+      </p>
+      <p><b>Internal memory</b><span class="columnar">16GB eMMC (~14GB available to user), 1GB DDR2 RAM</span>
+      </p>
+      <p><b>Memory card</b><span class="columnar">16GB microSD™</span></p>
+      <p><b>WLAN</b><span class="columnar">802.11 a/b/g/n</span></p>
+      <p><b>Bluetooth</b><span class="columnar">3.0 + HS</span></p>
+      <p><b>GPS</b><span class="columnar">GPS/AGPS</span></p>
+      <p><b>Battery</b><span class="columnar">1,620 mAh</span></p>
+      <p><b>Special features</b><span class="columnar">G-sensor, Light sensor, Compass, Proximity sensor, MicroUSB, USIM/CSIM/ISIM, audio jack Wireless Charging, TI Audio with SRS WOW HD</span>
+      </p>
+      <p><b>Chipset</b><span class="columnar">Qualcomm® MSM8660 1.5Ghz  Qualcomm® MDM9600</span></p>
+      <p><b>UX</b><span class="columnar">Sense 3.5 w/ VzW Horizontal Application Support</span></p>
+    </div><!-- // body-copy -->
+  </div>
+</div><!-- // content -->

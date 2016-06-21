@@ -1,0 +1,19 @@
+<div data-role="content" class="no-padding">
+  <div id="true-content" class="content-wrapper no-padding">
+    <div class="body-feature">
+      <div class="video-wrapper">
+        <video class="part-2" id="vp-1" controls poster="img/poster.png">
+          <source src="vid/video2-desktop.m4v" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/>
+          <source src="vid/video2-iPhone.m4v" type='video/mp4; codecs="avc1.58A01E, mp4a.40.2"'/>
+          <source src="vid/video2.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+          <source src="vid/video2-iPhone-cell.3gp" type='video/3gpp; codecs="mp4v.20.8, samr"'/>
+        </video>
+      </div><!-- // video-wrapper -->
+    </div><!-- // body-feature -->
+    <div class="body-copy">
+      <h2>True HD Screen</h2>
+      <p>Welcome to real HD. The HTC Rezound is the first smart phone to feature a true 16:9 aspect ratio and
+        720p screen resolution. Just like your HDTV.</p>
+    </div><!-- // body-copy -->
+  </div><!-- // content-wrapper -->
+</div><!-- // content -->
