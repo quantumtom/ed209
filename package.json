@@ -2,7 +2,7 @@
   "name": "ed209",
   "version": "1.0.1",
   "engines": {
-    "node": "5.7.0",
+    "node": "6.11.1",
     "npm": "3.6.0"
   },
   "description": "A promotional site for HTC.",
