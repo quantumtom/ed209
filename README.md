@@ -1,5 +1,5 @@
 # ed209
-A promotional site for HTC.
+A promotional site for Verizon Wireless and HTC.
 
 Originally hosted at
 
